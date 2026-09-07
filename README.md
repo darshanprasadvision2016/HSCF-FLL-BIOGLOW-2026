@@ -1,8 +1,14 @@
-# HSCF-FLL-BIOGLOW-2026
+# HSCF-FLL BIOGLOW 2026
 
 Robot: Droid Bot M
-Drive motors: A and C
-Attachment motors: D and E
-Wheel diameter: 56 mm
-Axle track: about 133 mm
-LEGO SPIKE Prime
+
+Controller: LEGO SPIKE Prime
+
+Drive Motors: A and C
+
+Attachment Motors: D and E
+
+Wheel Diameter: 56 mm
+
+Axle Track: 133 mm
+
